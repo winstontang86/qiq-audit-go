@@ -1,0 +1,16 @@
+# Python（scripts/build.py）
+__pycache__/
+*.pyc
+*.pyo
+
+# Go
+*.test
+*.out
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Skill runtime workdir
+.qiqskills/
